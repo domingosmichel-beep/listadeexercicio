@@ -4,7 +4,3 @@ if (ano%4===0){
 } else{
     console.log("não é bisexto")
 }
-
-for(let i = 1; i<=10; i++){
-    console.log(i)
-}
